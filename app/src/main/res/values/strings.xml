@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared notes</string>
+    <string name="NOTE_KEY_TITLE">note_key_title</string>
+    <string name="NOTE_KEY_BODY">note_key_body</string>
+</resources>
